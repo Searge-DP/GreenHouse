@@ -1,0 +1,16 @@
+[
+{
+  "modid": "greenhouse",
+  "name": "GreenHouses",
+  "description": "Adding Temperature Controlled Greenhouses",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dyonovan"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
